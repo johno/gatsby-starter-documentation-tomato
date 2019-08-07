@@ -927,10 +927,15 @@
     unist-builder "1.0.4"
     unist-util-visit "1.4.1"
 
-"@mdx-js/react@1.1.5", "@mdx-js/react@^1.0.21":
+"@mdx-js/react@1.1.5":
   version "1.1.5"
   resolved "https://registry.yarnpkg.com/@mdx-js/react/-/react-1.1.5.tgz#5e257debcdd0a60da992699385edef0abb891cb7"
   integrity sha512-c+tfNfvsInS5PRjTMGqxI+LyLrlxKyX/TNqeNG1DLKGjjf9cFlDshu7tnqZZhGa/VBu0c/XXkK8ZkXjpmfhweQ==
+
+"@mdx-js/react@^1.0.21":
+  version "1.1.6"
+  resolved "https://registry.yarnpkg.com/@mdx-js/react/-/react-1.1.6.tgz#ad78d69c7b8942e1ab126e47ae67a604856ade24"
+  integrity sha512-IQf5WIuInyk85liH1jXoK16pRr3ExQAuR4tzE1GnXK6IyuZoj3DBKMlwKZ93Fa5WF31o3Vc39CIkosuC/xIHhQ==
 
 "@mikaelkristiansson/domready@^1.0.9":
   version "1.0.9"
@@ -1035,9 +1040,9 @@
   integrity sha512-C+Jbr4nxveoOunni2cJROB4ATPb+jvVlxd1HxCyi5oxFl47Jlkuf1RF95wt/8aRUvE+IdVqnAqqCngDKsClpAQ==
 
 "@theme-ui/preset-tailwind@^0.2.25":
-  version "0.2.29"
-  resolved "https://registry.yarnpkg.com/@theme-ui/preset-tailwind/-/preset-tailwind-0.2.29.tgz#a54b3534e93790cd98e3894fa42c0628fbb3186a"
-  integrity sha512-Vl52qYyaE4E8elzT00ftQtytkDTte7x0tueocfdpP5wxLybNhqIoqtuMwGfFrEX4BlTR7RkTEE6YJHIswBHBYw==
+  version "0.2.30"
+  resolved "https://registry.yarnpkg.com/@theme-ui/preset-tailwind/-/preset-tailwind-0.2.30.tgz#e6092a965ab23b54091c61fb868caf1289c2c970"
+  integrity sha512-/zNP/9s9gPuzpkyrLzBtkXudgtTlOI0YSCHAkhmtBGGfBk0APGt7mBc1DyLAKfbBwUKVnMLsX7qFFpb/jKRsfA==
 
 "@theme-ui/presets@0.2.25":
   version "0.2.25"
@@ -1128,9 +1133,9 @@
   integrity sha1-fyrX7FX5FEgvybHsS7GuYCjUYGY=
 
 "@types/node@*":
-  version "12.6.9"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-12.6.9.tgz#ffeee23afdc19ab16e979338e7b536fdebbbaeaf"
-  integrity sha512-+YB9FtyxXGyD54p8rXwWaN1EWEyar5L58GlGWgtH2I9rGmLGBQcw63+0jw+ujqVavNuO47S1ByAjm9zdHMnskw==
+  version "12.7.0"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-12.7.0.tgz#545dde2a1a5c27d281cfb8308d6736e0708f5d6c"
+  integrity sha512-vqcj1MVm2Sla4PpMfYKh1MyDN4D2f/mPIZD7RdAGqEsbE+JxfeqQHHVbRDQ0Nqn8i73gJa1HQ1Pu3+nH4Q0Yiw==
 
 "@types/node@^7.0.11":
   version "7.10.7"
@@ -1909,9 +1914,9 @@ better-opn@0.1.4, better-opn@^0.1.4:
     opn "^5.4.0"
 
 better-queue-memory@^1.0.1:
-  version "1.0.3"
-  resolved "https://registry.yarnpkg.com/better-queue-memory/-/better-queue-memory-1.0.3.tgz#4e71fbb5f5976188656e0c5610da7b411af41493"
-  integrity sha512-QLFkfV+k/7e4L4FR7kqkXKtRi22kl68c/3AaBs0ArDSz0iiuAl0DjVlb6gM220jW7izLE5TRy7oXOd4Cxa0wog==
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/better-queue-memory/-/better-queue-memory-1.0.4.tgz#f390d6b30bb3b36aaf2ce52b37a483e8a7a81a22"
+  integrity sha512-SWg5wFIShYffEmJpI6LgbL8/3Dqhku7xI1oEiy6FroP9DbcZlG0ZDjxvPdP9t7hTGW40IpIcC6zVoGT1oxjOuA==
 
 better-queue@^3.8.6, better-queue@^3.8.7:
   version "3.8.10"
@@ -3617,9 +3622,9 @@ ee-first@1.1.1:
   integrity sha1-WQxhFWsK4vTwJVcyoViyZrxWsh0=
 
 electron-to-chromium@^1.3.191, electron-to-chromium@^1.3.47:
-  version "1.3.214"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.3.214.tgz#8b5b9a0415fd41b69c61f694007597cb8c8eb7e8"
-  integrity sha512-SU9yyql6uA0Fc8bWR7sCYNGBtxkC+tQb6UaC7ReaadN42Kx7Ka+dzx3lAIm9Ock+ULEawJuTFcVB2x34uOCg0Q==
+  version "1.3.216"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.3.216.tgz#7eda27727ba5412c96729df8fceb35bf503eb65a"
+  integrity sha512-G2rJKCdDLTaAP56WKMj0mcr7jtr3LBBL2EaF73DamfFpvcl0PzKUIaUocPP8NLu9s/RbbHLMGkbFOkDRK5PQIQ==
 
 elliptic@^6.0.0:
   version "6.5.0"
@@ -4537,10 +4542,10 @@ functional-red-black-tree@^1.0.1:
   resolved "https://registry.yarnpkg.com/functional-red-black-tree/-/functional-red-black-tree-1.0.1.tgz#1b0ab3bd553b2a0d6399d29c0e3ea0b252078327"
   integrity sha1-GwqzvVU7Kg1jmdKcDj6gslIHgyc=
 
-gatsby-cli@^2.7.27:
-  version "2.7.27"
-  resolved "https://registry.yarnpkg.com/gatsby-cli/-/gatsby-cli-2.7.27.tgz#be9180dd9312c3beb36ad929794bc40e104c2329"
-  integrity sha512-Er1ymd/itUxVBzS1d9u/d+QUKWFLmQlbF6H2i5usAUdyQmvxbyBwxP8uOIsvPONX47D77VE9zMmHI1Fdm1/RoQ==
+gatsby-cli@^2.7.28:
+  version "2.7.28"
+  resolved "https://registry.yarnpkg.com/gatsby-cli/-/gatsby-cli-2.7.28.tgz#f620b68e0c0759025e61fbc7f5125cc506f1b8d4"
+  integrity sha512-jPAh0ycXMg2l1s2DUAmZmc5O2VuKf6ZU13RPu4sSvFeZIRxNHWFeJ7gTh2ncNKMZ0faUaIqb2PjDjQNsLNq/dA==
   dependencies:
     "@babel/code-frame" "^7.0.0"
     "@babel/runtime" "^7.0.0"
@@ -4583,10 +4588,10 @@ gatsby-cli@^2.7.27:
     ink "^2.3.0"
     ink-spinner "^3.0.1"
 
-gatsby-core-utils@^1.0.0, gatsby-core-utils@^1.0.3:
-  version "1.0.3"
-  resolved "https://registry.yarnpkg.com/gatsby-core-utils/-/gatsby-core-utils-1.0.3.tgz#f7616192ac0b4d0fc04587d924533c3cece70980"
-  integrity sha512-01B0wqVTftFcYwVR7HGJy+Nriy+xxC++VZhsWNCFWtby1NwfSDUwkoScGcZ/jXvg9waEmBC1n70FwVIDnoHzSA==
+gatsby-core-utils@^1.0.0, gatsby-core-utils@^1.0.4:
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/gatsby-core-utils/-/gatsby-core-utils-1.0.4.tgz#098b5b2f444faadd3bc9f7e20bd0a092129882ba"
+  integrity sha512-r9HhRvnaPFliO9IzN6Yz2xTsZ8vtWKvzQHz0GwW3iFe6KkhXC+Y1p8eEaorRz6AnOE6sRbWaeqpe3AA6FbKr2g==
 
 gatsby-graphiql-explorer@^0.2.3:
   version "0.2.3"
@@ -4775,9 +4780,9 @@ gatsby-theme-documentation@^0.0.24:
     theme-ui "0.2.26"
 
 gatsby@^2.13.18:
-  version "2.13.51"
-  resolved "https://registry.yarnpkg.com/gatsby/-/gatsby-2.13.51.tgz#eff389308798db896038326b551208dc425356c8"
-  integrity sha512-Ax8eG9WTpcRifxQSEkjWLtHB+lCWgWAlhRWu9JYVFOKRRx70xYztOSf7roE9pTDGbpVvPiAoyz7AgpXBZAo1Qg==
+  version "2.13.52"
+  resolved "https://registry.yarnpkg.com/gatsby/-/gatsby-2.13.52.tgz#040dbf5a7675f1ea6336a20af0cfe9a3e20998d9"
+  integrity sha512-sTYT7S7E2h47Xw0HvMDRHWTtH6EYYDqlZjMpmrDXRoqj09tacULllhep2s7M9NCN55lusEWIGeCjoSejRG+1Cg==
   dependencies:
     "@babel/code-frame" "^7.0.0"
     "@babel/core" "^7.0.0"
@@ -4835,8 +4840,8 @@ gatsby@^2.13.18:
     flat "^4.0.0"
     fs-exists-cached "1.0.0"
     fs-extra "^5.0.0"
-    gatsby-cli "^2.7.27"
-    gatsby-core-utils "^1.0.3"
+    gatsby-cli "^2.7.28"
+    gatsby-core-utils "^1.0.4"
     gatsby-graphiql-explorer "^0.2.3"
     gatsby-link "^2.2.4"
     gatsby-plugin-page-creator "^2.1.5"
@@ -8942,9 +8947,9 @@ remark-emoji@2.0.2:
     unist-util-visit "^1.4.0"
 
 remark-mdx@^1.1.5:
-  version "1.1.5"
-  resolved "https://registry.yarnpkg.com/remark-mdx/-/remark-mdx-1.1.5.tgz#d189d363393f01f9743d505656cf6ea295ad9969"
-  integrity sha512-bTA5vthYYkOg5Mf0z1o+FYQb5pCYfqOmJ1wuyefNluAJmlFv/sIV0PPz9CpYTlUoNaC8b0VGgDY6Bb1MA6//UQ==
+  version "1.1.6"
+  resolved "https://registry.yarnpkg.com/remark-mdx/-/remark-mdx-1.1.6.tgz#691c4972be1d95fed908baf9d84141078fab3b7a"
+  integrity sha512-asKqUQbXgWvc8AUSGl/Pjlfv9wrVlItaWodeemVGp7xmC87QL9PdbiRpEerJrPQpEujG9iFEw4A4J1GVT12GiA==
   dependencies:
     "@babel/core" "7.5.5"
     "@babel/helper-plugin-utils" "7.0.0"
