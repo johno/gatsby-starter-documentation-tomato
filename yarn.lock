@@ -933,14 +933,14 @@
   integrity sha512-c+tfNfvsInS5PRjTMGqxI+LyLrlxKyX/TNqeNG1DLKGjjf9cFlDshu7tnqZZhGa/VBu0c/XXkK8ZkXjpmfhweQ==
 
 "@mdx-js/react@^1.0.21":
-  version "1.2.1"
-  resolved "https://registry.yarnpkg.com/@mdx-js/react/-/react-1.2.1.tgz#df6f17db53bfc9759566da4eaea990a5eca55f19"
-  integrity sha512-j2oZBdgBCH/bn1rT02CZbMSTWJ9eSUbTsuNTYx2uhiyVXjw6fCOJDatp6dQy5LD/5ZCMHKJKefN1QfpV+g/z9g==
+  version "1.2.2"
+  resolved "https://registry.yarnpkg.com/@mdx-js/react/-/react-1.2.2.tgz#563ad016e3b49a7478c9848e39c66637443dca1c"
+  integrity sha512-vmbZ8AttReR6krZjHBYsF+pN9Cikd/QpBUeP14inqwBKMXHYdOEdYzfm5uer3tkl3iwhxKWAVLxHTh8fwICEZw==
 
-"@mdx-js/util@^1.2.1":
-  version "1.2.1"
-  resolved "https://registry.yarnpkg.com/@mdx-js/util/-/util-1.2.1.tgz#5241abeb0cc3daa15988daf793bc8b21f675b66c"
-  integrity sha512-ALXfp0P/2a2cYG29oWog+coY7ZwnNSLfdrp99n+Wq+UElAmYkwGzI4gdMxXsBGQ9BqWFyqOGDTDl/zbZRNrWzw==
+"@mdx-js/util@^1.2.2":
+  version "1.2.2"
+  resolved "https://registry.yarnpkg.com/@mdx-js/util/-/util-1.2.2.tgz#4a63e82b6319ac85f455f0b8328a6e6d15ebe251"
+  integrity sha512-hnf0SpGr1ckKWYQt7CHkocAyeh4u7UyYt8bRdILT94ypZ0piX+By6bnDZxYysMt8V+knl7ZM0MxaPFIdrhTh0g==
 
 "@mikaelkristiansson/domready@^1.0.9":
   version "1.0.9"
@@ -1166,9 +1166,9 @@
     "@types/react" "*"
 
 "@types/react@*", "@types/react@^16.8.12", "@types/react@^16.8.6":
-  version "16.8.25"
-  resolved "https://registry.yarnpkg.com/@types/react/-/react-16.8.25.tgz#0247613ab58b1b11ba10fed662e1947c5f2bb89c"
-  integrity sha512-ydAAkLnNTC4oYSxJ3zwK/4QcVmEecACJ4ZdxXITbxz/dhahBSDKY6OQ1uawAW6rE/7kfHccxulYLSAIZVrSq0A==
+  version "16.9.0"
+  resolved "https://registry.yarnpkg.com/@types/react/-/react-16.9.0.tgz#27434f16d889a335eb4626d1f1e67eda54039e5b"
+  integrity sha512-eOct1hyZI9YZf/eqNlYu7jxA9qyTw1EGXruAJhHhBDBpc00W0C1vwlnh+hkOf7UFZkNK+UxnFBpwAZe3d7XJhQ==
   dependencies:
     "@types/prop-types" "*"
     csstype "^2.2.0"
@@ -8945,15 +8945,15 @@ remark-emoji@2.0.2:
     unist-util-visit "^1.4.0"
 
 remark-mdx@^1.1.5:
-  version "1.2.1"
-  resolved "https://registry.yarnpkg.com/remark-mdx/-/remark-mdx-1.2.1.tgz#6fef56347096a7d432712e417d571415f08e0210"
-  integrity sha512-k2QO5OBCH6+5Ix87Yw73QUk+rrCyFCwRlM2hNx1sXdV4KKhqaRG7M10a61pyyzK0nvRbLvZhvZTQO9+Ww4GS5A==
+  version "1.2.2"
+  resolved "https://registry.yarnpkg.com/remark-mdx/-/remark-mdx-1.2.2.tgz#2e7efc76405999f7d3937b9011c2310326cfc74f"
+  integrity sha512-jkDKV2FMmIzRftMFL6YDKijr12JxsgXWgG8Slb/IKV58F6846W8WuJRonQDCOQ5QL2+1GChB7hZ4QbnNvn4ktg==
   dependencies:
     "@babel/core" "7.5.5"
     "@babel/helper-plugin-utils" "7.0.0"
     "@babel/plugin-proposal-object-rest-spread" "7.5.5"
     "@babel/plugin-syntax-jsx" "7.2.0"
-    "@mdx-js/util" "^1.2.1"
+    "@mdx-js/util" "^1.2.2"
     is-alphabetical "1.0.3"
     remark-parse "7.0.1"
     unified "8.3.2"
